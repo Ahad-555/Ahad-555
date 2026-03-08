@@ -1,16 +1,15 @@
-## Hi there 👋
+# أهلاً بكم في عالمي البرمجي 💻✨
 
-<!--
-**Ahad-555/Ahad-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***************************************************
+* 🎓 طالبة نظم معلومات إدارية (MIS) - جامعة الحدود الشمالية
+* 🚀 أطمح لأكون مبرمجة محترفة في لغة Java
+* ⭐ شعاري: "الكود المرتب هو كود سعيد"
+***************************************************
 
-Here are some ideas to get you started:
+### مهاراتي حالياً:
+- ☕ برمجة Java (المستوى الثاني)
+- 🎨 تصميم واجهات (UI/UX) باستخدام Figma
+- 🛠️ توثيق المشاريع على GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **حقيقة عني:** أحب إضافة النجوم والتنسيقات الفنية لأكوادي لأنها تعبر عن شخصيتي المنظمة 🌟
+
